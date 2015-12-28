@@ -1,0 +1,23 @@
+{
+  "name": "vue-mcoms",
+  "version": "0.1.0",
+  "description": "Some useful vue mobile components",
+  "main": "index.js",
+  "scripts": {
+    "dev": "gulp dev"
+  },
+  "author": "archer",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.3.17",
+    "babel-loader": "^6.2.0",
+    "gulp": "^3.9.0",
+    "gulp-util": "^3.0.7",
+    "vue-loader": "^7.2.0",
+    "webpack": "^1.12.9",
+    "webpack-dev-server": "^1.14.0"
+  },
+  "dependencies": {
+    "vue": "^1.0.11"
+  }
+}
